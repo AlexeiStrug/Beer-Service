@@ -1,4 +1,4 @@
-package com.example.beerservice.mappers;
+package com.example.beerservice.utils.mappers;
 
 import com.example.beerservice.model.BeerDto;
 import com.example.beerservice.model.BeerEntity;
